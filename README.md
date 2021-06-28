@@ -1,5 +1,7 @@
 # curso_sbpc_2021
 
+![alt sbpc2021](https://github.com/rochabm/curso_sbpc_2021/blob/main/logo.png)
+
 ## Webminicurso (WMC-03): Modelagem Matemática e Computacional na Covid-19 da 73a Reunião da Sociedade Brasileira para Progresso da Ciência - Universidade Federal de Juiz de Fora.
 
 ## Ministrantes: Rodrigo Weber dos Santos (UFJF), Marcelo Lobosco (UFJF) e Bernardo Martins Rocha (UFJF)
