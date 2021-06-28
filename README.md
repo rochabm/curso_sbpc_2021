@@ -4,7 +4,10 @@
 
 ## Webminicurso (WMC-03): Modelagem Matemática e Computacional na Covid-19
 
-## Ministrantes: Rodrigo Weber dos Santos (UFJF), Marcelo Lobosco (UFJF) e Bernardo Martins Rocha (UFJF)
+Ministrantes:
+- Rodrigo Weber dos Santos (UFJF)
+- Marcelo Lobosco (UFJF)
+- Bernardo Martins Rocha (UFJF)
 
 Conteúdo:
 - aula1.pdf: Prof. Rodrigo Weber dos Santos
