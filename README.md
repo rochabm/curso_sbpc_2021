@@ -39,6 +39,11 @@ WMC03: Aula 03 - Prof. Bernardo Martins Rocha
 - Análise de Sensibilidade
 - Exemplos e códigos em Python
 
+Link para os Artigos Publicados:
+- How fast vaccination can control the COVID-19 pandemic in Brazil?, Lecture Notes in Computer Science, 2021: https://link.springer.com/chapter/10.1007%2F978-3-030-77964-1_38
+- The Quixotic Task of Forecasting Peaks of COVID-19: Rather Focus on Forward and Backward Projections, Frontiers in Public Health, 2020: https://www.frontiersin.org/articles/10.3389/fpubh.2021.623521/full
+- Characterization of the COVID-19 pandemic and the impact of uncertainties, mitigation strategies, and underreporting of cases in South Korea, Italy, and Brazil, Chaos Solitons & Fractals, 2020: https://www.sciencedirect.com/science/article/abs/pii/S0960077920302885?via%3Dihub
+
 Link para Material do Insight Maker:
 - 1. Link para Crescimento Populacional via Agentes:
 https://insightmaker.com/insight/206211/Crescimento-Poupulacional-via-Agentes
